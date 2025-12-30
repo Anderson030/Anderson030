@@ -8,7 +8,6 @@
 
 <div align="center">
 
-<!-- Animated typing title -->
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+React;Building+Real+Systems" />
 
 </div>
@@ -31,13 +30,14 @@
 </div>
 
 ---
+
 ## 🚀 About Me
 
 <div align="right">
   <img
-    src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif"
+    src="https://media.giphy.com/media/8WJw9kAG3wonu/giphy.gif"
     width="260"
-    alt="Futuristic robot stage"
+    alt="Futuristic humanoid robot"
   />
 </div>
 
@@ -90,7 +90,7 @@
 
 ---
 
-## 📊 GitHub Stats (Futuristic Purple)
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -104,7 +104,7 @@
 
 ---
 
-## 🐍 Contribution Snake (Animated)
+## 🐍 Contribution Snake
 
 <div align="center">
 
@@ -136,6 +136,6 @@
 
 <div align="center">
 
-✨ *Building real solutions with clean code and futuristic vision* ✨
+✨ Building real solutions with clean code and futuristic vision ✨
 
 </div>
