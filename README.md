@@ -35,8 +35,8 @@
 
 <div align="right">
   <img
-    src="https://media.giphy.com/media/8WJw9kAG3wonu/giphy.gif"
-    width="260"
+    src="https://raw.githubusercontent.com/Anderson030/assets/main/futuristic-robot.gif"
+    width="300"
     alt="Futuristic humanoid robot"
   />
 </div>
