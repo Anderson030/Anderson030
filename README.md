@@ -5,16 +5,7 @@
 
 </div>
 
----
 
-<div align="center">
-
-<!-- Animated futuristic banner -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,18&height=180&section=header&text=FUTURE%20IN%20CODE&fontSize=28&fontColor=ffffff&animation=fadeIn" />
-
-</div>
-
----
 
 <div align="center">
 
