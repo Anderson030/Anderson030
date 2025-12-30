@@ -1,79 +1,126 @@
-<div align="Center">
-<img width="100" src="https://github.com/user-attachments/assets/fae54e71-c962-4868-ad16-f727a0593d00" />
+<div align="center">
+
+<!-- Animated Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7F00FF&height=220&section=header&text=Anderson%20Blandón&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Java%20•%20Spring%20Boot%20•%20React&descAlignY=60" />
+
+</div>
+
+---
 
 <div align="center">
 
-<a href="https://github.com/CtorW">
-<img src="https://github.com/user-attachments/assets/77f249fa-d3bf-4ece-aad2-7fe374d1217f" />
+<img width="150" src="https://github.com/user-attachments/assets/fae54e71-c962-4868-ad16-f727a0593d00" />
+
+<br/>
+
+<a href="https://github.com/Anderson030">
+  <img src="https://img.shields.io/github/followers/Anderson030?label=Follow&style=social" />
+</a>
+<a href="https://github.com/Anderson030">
+  <img src="https://img.shields.io/github/stars/Anderson030?style=social" />
 </a>
 
-[![GitHub Followers](https://img.shields.io/github/followers/CtorW?label=Follow&style=social)](https://github.com/CtorW)
-[![GitHub Stars](https://img.shields.io/github/stars/CtorW?style=social)](https://github.com/CtorW)
 </div>
 
+---
 
-🌱 Currently immersed in the world of **Arch Linux**, fascinated by the sleekness of **Hyprland**, and always on the lookout for inspiring **Dotfiles** like **HyDE**, **HyprLuna**, and **End-4 dots**.
+## 🚀 About Me
 
-💻 Passionately building an **Arch Installer** project. 
+🌱 **Full Stack Developer** with experience building **real-world systems** for small businesses.
 
+💻 Strong background in **Java & Spring Boot**, with hands-on projects using **React**, **Laravel**, and **REST APIs**.
 
-<div align="Center">
-<h1>Skills</h1>
-</div>
+🧠 Focused on **clean code**, **scalable architectures**, and **practical solutions**.
 
-<div align="Center">
+---
 
-| Website | Programming |
-| ------------- | ------------- |
-| <img src="https://skillicons.dev/icons?i=html,css,js,sass,py"/> | <img src="https://skillicons.dev/icons?i=bash,vscode,vscodium,sublime,github"/> |
+## 🛠️ Tech Stack
 
-</div>
+<div align="center">
 
-<br>
-<br>
-<br>
+### 🌐 Frontend
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" />
 
-<div align="Center">
-<h1>Operating Systems</h1>
+### ⚙️ Backend
+<img src="https://skillicons.dev/icons?i=java,spring,php,laravel,nodejs" />
 
-<img src="https://skillicons.dev/icons?i=windows,arch,linux,mint,ubuntu"/>
+### 🗄️ Databases
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite" />
 
-</div>
-
-<br>
-<br>
-
-| Snake Eating Contributions in the last year |
-| ------------------------------------------|
-| ![snakkeee](https://github.com/user-attachments/assets/767354e9-fe1e-4009-b421-2f49388bfda5) | 
-
-
-
-<div align="Center">
-
-| CtorW's Stats | Ultimate Streak |
-| ------------- | ------------- |
-| ![CtorW's Stats](https://github-readme-stats.vercel.app/api?username=CtorW&theme=onedark&show_icons=true&hide_border=true&count_private=true)  | ![CtorW's Streak](https://github-readme-streak-stats.herokuapp.com/?user=CtorW&theme=onedark&hide_border=true) 
-
-| Most Lang |
-| ----------|
-| ![CtorW's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CtorW&theme=onedark&show_icons=true&hide_border=true&layout=compact) |
-
+### 🧰 Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 
 </div>
 
-<br>
-<br>
+---
 
-<div align="Center">
+## 💼 Featured Projects
 
-|‎ ‎ ‎ ‎ Contacts‎ ‎ ‎ ‎ |
-| ----------|
-| <a href="mailto:lorenceisidoro@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail"/> </a> ‎ ‎ ‎ ‎  <a href="https://instagram.com/xir.rence"> <img src="https://skillicons.dev/icons?i=instagram"/> </a> ‎ ‎ ‎ ‎  <a href="[https://instagram.com/xir.rence](https://discord.com/users/729473858179956859)"> <img src="https://skillicons.dev/icons?i=discord"/> </a> |
+### 🟣 Loan Management System (Laravel)
+✔ Client administration  
+✔ Debt & payment tracking  
+✔ Role-based access  
+✔ Reports & PDF generation  
+
+🔗 https://github.com/Anderson030/Sistemaprestamoslaravel
+
+---
+
+### 🟣 Remote System Management & Security
+✔ Remote shutdown & restart  
+✔ System updates  
+✔ Microservices architecture  
+
+🔗 https://github.com/microservices-systemBreak/integration-systeam-break
+
+---
+
+## 📊 GitHub Stats (Futuristic Purple)
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Anderson030&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Anderson030&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anderson030&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
-------
+---
 
-Credit: [Ctorw](https://github.com/CtorW)
-Last Edited on: 12/04/2005
+## 🐍 Contribution Snake (Animated)
+
+<div align="center">
+
+<img src="https://github.com/Anderson030/Anderson030/blob/output/github-contribution-grid-snake.svg" />
+
+</div>
+
+---
+
+## 📫 Contact
+
+<div align="center">
+
+<a href="mailto:anderson.blandon@hotmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/Anderson030">
+  <img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+✨ *Building real solutions with clean code and futuristic vision* ✨
+
+</div>
