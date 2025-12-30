@@ -44,6 +44,8 @@
 
 ## 🛠️ Tech Stack
 
+<img src="/Anarragan/Anarragan/raw/main/assets/kirbi1.gif" alt="kirby" align="right" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+
 <div align="center">
 
 ### 🌐 Frontend
