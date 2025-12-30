@@ -46,9 +46,9 @@
 
 <div align="right">
   <img
-    src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif"
-    width="120"
-    alt="Kirby coding"
+    src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"
+    width="130"
+    alt="Futuristic robot coding"
   />
 </div>
 
