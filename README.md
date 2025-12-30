@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated typing title -->
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Anderson+Estiduar+Bland%C3%B3n+%C3%81lvarez;Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+React;Building+Real+Systems" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Anderson+Bland%C3%B3n+%C3%81lvarez;Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+React;Building+Real+Systems" />
 
 </div>
 
