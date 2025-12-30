@@ -4,16 +4,16 @@
 
 </div>
 
-
 ---
-
 
 <div align="center">
 
 <!-- Animated typing title -->
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+React;Building+Real+Systems" />
 
+</div>
 
+---
 
 <div align="center">
 
@@ -44,7 +44,13 @@
 
 ## 🛠️ Tech Stack
 
-<img src="/Anarragan/Anarragan/raw/main/assets/kirbi1.gif" alt="kirby" align="right" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+<div align="right">
+  <img
+    src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif"
+    width="120"
+    alt="Kirby coding"
+  />
+</div>
 
 <div align="center">
 
