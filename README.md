@@ -31,8 +31,15 @@
 </div>
 
 ---
-
 ## 🚀 About Me
+
+<div align="right">
+  <img
+    src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif"
+    width="260"
+    alt="Futuristic robot stage"
+  />
+</div>
 
 🌱 **Full Stack Developer** with experience building **real-world systems** for small businesses.
 
@@ -43,14 +50,6 @@
 ---
 
 ## 🛠️ Tech Stack
-
-<div align="right">
-  <img
-    src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"
-    width="130"
-    alt="Futuristic robot coding"
-  />
-</div>
 
 <div align="center">
 
