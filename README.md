@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Animated Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7F00FF&height=220&section=header&text=Anderson%20Blandón&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Java%20•%20Spring%20Boot%20•%20React&descAlignY=60" />
+<!-- Animated typing title -->
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Anderson+Estiduar+Bland%C3%B3n+%C3%81lvarez;Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+React;Building+Real+Systems" />
 
 </div>
 
@@ -9,9 +9,18 @@
 
 <div align="center">
 
-<img width="150" src="https://github.com/user-attachments/assets/fae54e71-c962-4868-ad16-f727a0593d00" />
+<!-- Animated futuristic banner -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,18&height=180&section=header&text=FUTURE%20IN%20CODE&fontSize=28&fontColor=ffffff&animation=fadeIn" />
 
-<br/>
+</div>
+
+---
+
+<div align="center">
+
+<img width="140" src="https://github.com/user-attachments/assets/fae54e71-c962-4868-ad16-f727a0593d00" />
+
+<br><br>
 
 <a href="https://github.com/Anderson030">
   <img src="https://img.shields.io/github/followers/Anderson030?label=Follow&style=social" />
@@ -24,58 +33,58 @@
 
 ---
 
-## 🚀 About Me
+## 🧠 Who Am I?
 
-🌱 **Full Stack Developer** with experience building **real-world systems** for small businesses.
+🌌 **Full Stack Developer** focused on building **real, scalable systems** for businesses.
 
-💻 Strong background in **Java & Spring Boot**, with hands-on projects using **React**, **Laravel**, and **REST APIs**.
+⚙️ Strong backend foundations with **Java & Spring Boot**, combined with modern frontends using **React** and **Laravel**.
 
-🧠 Focused on **clean code**, **scalable architectures**, and **practical solutions**.
+🚀 I enjoy creating **clean architectures**, solving **real problems**, and pushing projects from idea to production.
 
 ---
 
-## 🛠️ Tech Stack
+## 🧬 Tech Arsenal
 
 <div align="center">
 
 ### 🌐 Frontend
-<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap&theme=dark" />
 
 ### ⚙️ Backend
-<img src="https://skillicons.dev/icons?i=java,spring,php,laravel,nodejs" />
+<img src="https://skillicons.dev/icons?i=java,spring,php,laravel,nodejs&theme=dark" />
 
 ### 🗄️ Databases
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite" />
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite&theme=dark" />
 
 ### 🧰 Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" />
 
 </div>
 
 ---
 
-## 💼 Featured Projects
+## 💼 Flagship Projects
 
-### 🟣 Loan Management System (Laravel)
-✔ Client administration  
-✔ Debt & payment tracking  
-✔ Role-based access  
-✔ Reports & PDF generation  
+### 🟣 Loan Management System
+🧩 Client & debt management  
+📊 Payments and reports  
+🔐 Role-based access  
+📄 PDF generation  
 
 🔗 https://github.com/Anderson030/Sistemaprestamoslaravel
 
 ---
 
-### 🟣 Remote System Management & Security
-✔ Remote shutdown & restart  
-✔ System updates  
-✔ Microservices architecture  
+### 🟣 Remote System Control & Security
+🖥️ Remote shutdown / restart  
+🔄 System updates  
+🧠 Microservices architecture  
 
 🔗 https://github.com/microservices-systemBreak/integration-systeam-break
 
 ---
 
-## 📊 GitHub Stats (Futuristic Purple)
+## 📈 Live GitHub Metrics
 
 <div align="center">
 
@@ -89,7 +98,7 @@
 
 ---
 
-## 🐍 Contribution Snake (Animated)
+## 🐍 Contribution Flow (Animated)
 
 <div align="center">
 
@@ -99,20 +108,20 @@
 
 ---
 
-## 📫 Contact
+## 📡 Contact Node
 
 <div align="center">
 
 <a href="mailto:anderson.blandon@hotmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" />
+  <img src="https://skillicons.dev/icons?i=gmail&theme=dark" />
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/">
-  <img src="https://skillicons.dev/icons?i=linkedin" />
+  <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://github.com/Anderson030">
-  <img src="https://skillicons.dev/icons?i=github" />
+  <img src="https://skillicons.dev/icons?i=github&theme=dark" />
 </a>
 
 </div>
@@ -121,6 +130,6 @@
 
 <div align="center">
 
-✨ *Building real solutions with clean code and futuristic vision* ✨
+⚡ *Code is my language. Systems are my craft.* ⚡
 
 </div>
