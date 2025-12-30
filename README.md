@@ -1,16 +1,19 @@
 <div align="center">
 
-<!-- Animated typing title -->
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+React;Building+Real+Systems" />
-
-<div align="center">
-
-<!-- Animated Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7F00FF&height=220&section=header&text=Anderson%20Blandón&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Java%20•%20Spring%20Boot%20•%20React&descAlignY=60" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7F00FF&height=220&section=header&text=Anderson%20Blandón&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=50" />
 
 </div>
 
+
 ---
+
+
+<div align="center">
+
+<!-- Animated typing title -->
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+React;Building+Real+Systems" />
+
+
 
 <div align="center">
 
